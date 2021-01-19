@@ -42,3 +42,32 @@ Route::get('/whatdynamic', function () {
 
 
 
+
+Route::get('/contact', function () {
+    return view('pages.contact');
+});
+
+Route::get('/contentwriting', function () {
+    return view('pages.contentwriting');
+});
+
+Route::get('/digitalmarketing', function () {
+    return view('pages.digitalmarketing');
+});
+
+
+Route::get('/graphicdesign', function () {
+    return view('pages.graphicdesign');
+});
+
+Route::get('/seo', function () {
+    return view('pages.seo');
+});
+
+Route::get('/webdevelopment', function () {
+    return view('pages.webdevelopment');
+});
+
+
+
+
