@@ -40,7 +40,7 @@
         <![endif]-->
     </head>
     <body>
-         Preloader
+         {{-- Preloader --}}
         <div class="loader-container">
             <div class="loader">
                 <div id="mask">
