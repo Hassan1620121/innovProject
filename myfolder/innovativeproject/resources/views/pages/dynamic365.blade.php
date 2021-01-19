@@ -1,0 +1,1 @@
+<h1>This is dynamic 365 page</h1>
