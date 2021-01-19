@@ -1,1 +1,0 @@
-<h1>This is graphic designing page</h1>
