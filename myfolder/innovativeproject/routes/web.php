@@ -26,3 +26,19 @@ Route::get('/services', function () {
     return view('pages.services');
 });
 
+
+
+Route::get('/powerautomate', function () {
+    return view('pages.powerautomate');
+});
+
+Route::get('/dynamic365', function () {
+    return view('pages.dynamic365');
+});
+
+Route::get('/whatdynamic', function () {
+    return view('pages.whatdynamic');
+});
+
+
+
