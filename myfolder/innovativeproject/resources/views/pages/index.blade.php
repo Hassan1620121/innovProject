@@ -10,27 +10,28 @@
         <title>Microsoft 365 & D365 Implementation and Support | Innovative</title>
 
         <!-- Icon css link -->
-        <link href="{{asset('css/font-awesome.min.css')}}" rel="stylesheet">
-        <link href="{{asset('vendors/linearicon/style.css')}}" rel="stylesheet">
-        <link href="{{asset('vendors/themify/themify-icons.css')}}" rel="stylesheet">
+        <link href="css/font-awesome.min.css" rel="stylesheet">
+        <link href="vendors/linearicon/style.css" rel="stylesheet">
+        <link href="vendors/themify/themify-icons.css" rel="stylesheet">
         <!-- Bootstrap -->
-        <link href="{{asset('css/bootstrap.min/bootstrap.min.css')}}" rel="stylesheet">
+        <link href="css/bootstrap.min/bootstrap.min.css" rel="stylesheet">
         
         <!-- Rev slider css -->
-        <link href="{{asset('vendors/revolution/css/settings.css')}}" rel="stylesheet">
-        <link href="{{asset('vendors/revolution/css/layers.css')}}" rel="stylesheet">
-        <link href="{{asset('vendors/revolution/css/navigation.css')}}" rel="stylesheet">
-        <link href="{{asset('vendors/animate-css/animate.css')}}" rel="stylesheet">
+        <link href="vendors/revolution/css/settings.css" rel="stylesheet">
+        <link href="vendors/revolution/css/layers.css" rel="stylesheet">
+        <link href="vendors/revolution/css/navigation.css" rel="stylesheet">
+        <link href="vendors/animate-css/animate.css" rel="stylesheet">
         
         <!-- Extra plugin css -->
-        <link href="{{asset('vendors/scroll/jquery.mCustomScrollbar.css')}}" rel="stylesheet">
-        <link href="{{asset('vendors/owl-carousel/owl.carousel.min.css')}}" rel="stylesheet">
-        <link href="{{asset('vendors/magnify-popup/magnific-popup.css')}}" rel="stylesheet">
-        <link href="{{asset('vendors/bootstrap-selector/bootstrap-select.css')}}" rel="stylesheet">
-        <link rel="stylesheet" href="{{asset('vendors/dzsparallaxer/dzsparallaxer.css')}}">
+        <link href="vendors/scroll/jquery.mCustomScrollbar.css" rel="stylesheet">
+        <link href="vendors/owl-carousel/owl.carousel.min.css" rel="stylesheet">
+        <link href="asset('vendors/magnify-popup/magnific-popup.css" rel="stylesheet">
+        <link href="'vendors/bootstrap-selector/bootstrap-select.css" rel="stylesheet">
+        <link rel="stylesheet" href="vendors/dzsparallaxer/dzsparallaxer.css">
         
-        <link href="{{asset('css/style.css')}}" rel="stylesheet">
-        <link href="{{asset('css/responsive.css')}}" rel="stylesheet"> 
+        {{-- <link href="css/style.css" rel="stylesheet"> --}}
+        <link href="css/style.css" rel="stylesheet">
+        <link href="css/responsive.css" rel="stylesheet"> 
 
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -1169,22 +1170,22 @@ Together, our strategic partners support our delivery of the best solutions and 
         
         
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-        <script src="{{asset('js/jquery-2.2.4.js')}}"></script>
+        <script src="js/jquery-2.2.4.js"></script>
         <!-- Include all compiled plugins (below), or include individual files as needed -->
-        <script src="{{asset('js/bootstrap.min.js')}}"></script>
+        <script src="js/bootstrap.min.js"></script>
         <!-- Rev slider js -->
-        <script src="{{asset('vendors/revolution/js/jquery.themepunch.tools.min.js')}}"></script>
-        <script src="{{asset('vendors/revolution/js/jquery.themepunch.revolution.min.js')}}"></script>
-        <script src="{{asset('vendors/revolution/js/extensions/revolution.extension.video.min.js')}}"></script>
-        <script src="{{asset('vendors/revolution/js/extensions/revolution.extension.slideanims.min.js')}}"></script>
-        <script src="{{asset('vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js')}}"></script>
-        <script src="{{asset('vendors/revolution/js/extensions/revolution.extension.navigation.min.js')}}"></script>
+        <script src="vendors/revolution/js/jquery.themepunch.tools.min.js"></script>
+        <script src="vendors/revolution/js/jquery.themepunch.revolution.min.js"></script>
+        <script src="vendors/revolution/js/extensions/revolution.extension.video.min.js"></script>
+        <script src="vendors/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+        <script src="vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+        <script src="vendors/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
         <!-- TYPEWRITER AND COMING SOON ADD ON -->
-        <script type="text/javascript" src="{{asset('vendors/revolution-addons/typewriter/js/revolution.addon.typewriter.js')}}"></script>
-        <script type="text/javascript" src="{{asset('vendors/revolution-addons/countdown/revolution.addon.countdown.min.js')}}"></script>
+        <script type="text/javascript" src="vendors/revolution-addons/typewriter/js/revolution.addon.typewriter.js"></script>
+        <script type="text/javascript" src="vendors/revolution-addons/countdown/revolution.addon.countdown.min.js"></script>
         <!--gmaps Js-->
-        <script src="{{asset('https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE')}}"></script>
-        <script src="{{asset('js/gmaps.min.js')}}"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
+        <script src="js/gmaps.min.js"></script>
         <!-- contact js -->
         <script src="js/jquery.form.js"></script>
         <script src="js/jquery.validate.min.js"></script>
